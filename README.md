@@ -13,7 +13,7 @@
 
 
 ## Instructions
-* Install:
+**Install**:
 	pip install tweepy
 	pip install twitter
 	pip install nltk
@@ -26,7 +26,7 @@
 
 
 
-* Run & Execute: Please use original Dataset.csv file to run Main.py
+**Run & Execute**: Please use original Dataset.csv file to run Main.py
 
 	1. python3 ExtractTweets.py  	--------- Extract tweets data into the CSV file at the current time.
 
