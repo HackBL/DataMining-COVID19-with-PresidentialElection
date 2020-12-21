@@ -12,12 +12,9 @@
 * WordCloud Implementation
 
 
-## Instructions
-**Run & Execute**: 
-
-	1. python3 ExtractTweets.py  	 
-
-	2. Python3 Main.py		 
+## Run & Execute: 
+	> python3 ExtractTweets.py  	
+	> Python3 Main.py		 
 
 
-	Note*: The tweets data will be extracted into the CSV file. Since the program can only extract tweets by the current time, if you would like to extract more days data, you probably should run the program every day before starting running the analysis part. All commands should be running in the terminal in the correct directory. 
+Note*: The tweets data will be extracted into the CSV file. Since the program can only extract tweets by the current time, if you would like to extract more days data, you probably should run the program every day before starting running the analysis part. All commands should be running in the terminal in the correct directory. 
